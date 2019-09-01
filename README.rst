@@ -528,7 +528,7 @@
      ...
      
      HumanPerson_t j = {
-             .kgweight = 55.0,
+             .kgweight = 80.0,
              .name = "John",
              .surname = "Sins"
      };
